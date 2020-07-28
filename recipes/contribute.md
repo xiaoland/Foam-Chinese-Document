@@ -16,3 +16,12 @@
     - 而且其它的推荐扩展都位于它们各自的库中
   
 ## 为vscode扩展作贡献
+- 如果你有兴趣为vscode上的foam扩展作出贡献（又叫做foam-vscode），那么本指南将帮助你在本地对其作出设置
+  - 1、将本库克隆到本地：git clone https://github.com/fomabubble/foam.git（也可以用Github Desktop进行克隆，这样管理起来更方便）
+  - 2、在根目录下运行这条命令安装依赖：yarn workspace foam-cre build
+  - 3、这个项目使用![Yarn workspace](https://classic.yarnpkg.com/en/docs/workspaces/)「Yarn工作区」
+    - foam-vscode依赖foam-core，这意味着我们需要在进行任何开发之前对其进行编译，因此，请从根目录运行命令：yarn workspace foam-core build
+  - 4、现在，我们将使用.vscode/launch.json中定义的启动配置来启动一个新的vscode扩展主机
+  - 5、在新的vscode扩展主机中，打开一个Foam工作区（如您的个人Foam工作区）。不过严格来说，这不是必须的，但这个扩展不会自动运行，除非该扩展位于带有.vscode/foam.json文件的工作区中
+  - 6、测试一下命令以确保其能正常运行。打开vscode的命令面板「输入Crtl+Shift+P或View>Command Palette」，然后输入并找到后选择"Foam: Update Markdown Reference List"。如果你没有遇到任何错误，那你就可以开始开发了！
+- 有关于vscode扩展的更多信息，请查看：![教程：向vscode扩展添加新命令](https://foambubble.github.io/foam/tutorial-adding-a-new-command-to-the-vs-code-extension)（不是很想翻译，你们喜欢就翻译一下吧，谢谢啦！）

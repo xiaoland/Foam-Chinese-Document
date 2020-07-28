@@ -16,7 +16,7 @@
 
 ### Recipes「/recipes」
 - 想作出贡献？ [contribute.md](recipes/contribute.md)
-- 试试智能笔记？ take_smart_note.md
+- 试试智能笔记？ [todo.md](recipes/todo.md)
 - 展开探索！ discover.md
 - 组织起来！ organise.md
 - 如何使用 write.md
