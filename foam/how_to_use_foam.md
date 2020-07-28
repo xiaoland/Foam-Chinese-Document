@@ -10,4 +10,4 @@
     - *我觉得应该是：用Foam的wiki-links把你的想法连接起来，然后你就可以以知识图谱的形式来浏览它们了
   - 4、使用[Graph visualisation]（图表可视化）来概括您的Foam工作区，并使用[Backlinking]（反向链接）发现想法之间的关系
 - Foam就像一个浴缸：从中获得的泡沫取决于你放入的泡沫
-  
+- [入门Foam](gettting_started.md)
