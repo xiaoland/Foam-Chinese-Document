@@ -8,8 +8,8 @@
 - 如何使用Foam [how_to_use_foam.md](foam/how_to_use_foam.md)
 - Foam里都有些什么 [waht's_in_foam.md](foam/what's_in_foam.md)
 - 让我们入门Foam吧！ [getting_started.md](foam/gettting_started.md)
-- Foam的功能 features.md
-- 进行冒险 call to adventure
+- Foam的功能 [features.md](foam/features.md)
+- 期待你展开冒险 [call to adventure](foam/call_to_adventure.md)
 - 感谢 thanks.md
 
 ### Recipes「/recipes」
