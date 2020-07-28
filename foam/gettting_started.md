@@ -6,9 +6,9 @@
   
 ## 安装Foam的步骤
 - 1、使用foam-template生成一个新的git存储库
-  - 如果您已经登录github，那么你就可以点击这个链接直接创建：![Use this template](https://github.com/foambubble/foam-template/generate)
+  - 如果您已经登录github，那么你就可以点击这个链接直接创建：[Use this template](https://github.com/foambubble/foam-template/generate)
   - 请注意，如果你想保留你自己的构思，请记住把存储库设置为私有
-  - 或者你压根不想在github上托管，那么请点击此链接下载Foam模板的zip文件：![Download foam-template's zip file](https://github.com/foambubble/foam-template/archive/master.zip)
+  - 或者你压根不想在github上托管，那么请点击此链接下载Foam模板的zip文件：[Download foam-template's zip file](https://github.com/foambubble/foam-template/archive/master.zip)
 - 2、将你的git存储库克隆到本地，然后用vscode打开
   - 在vscode中，选择「File>Open...」来打开你的存储库
 - 3、当出现提示安装推荐的插件时，选择[Install All]安装全部，或者点击[Show Recommendations]来选择安装插件
