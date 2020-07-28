@@ -1,8 +1,10 @@
 # INDEX-目录
 - 本文档包含本插件的使用指导、提示和策略，并以此帮助您充分利用foam
-- 英文链接：https://foambubble.github.io/
+- 原文链接：![Foam's github pages](https://foambubble.github.io/foam)
+- Foam是基于MIT许可的
 
 ## 目录列表
+- 若你再次跳转到本页，则说明你应该查看Recipes的目录
 
 ### Normal [/foam]
 - 如何使用Foam [how_to_use_foam.md](foam/how_to_use_foam.md)
@@ -15,7 +17,7 @@
 ### Recipes「/recipes」
 - 想作出贡献？ [contribute.md](recipes/contribute.md)
 - 试试智能笔记？ take_smart_note.md
-- 去探索！ discover.md
+- 展开探索！ discover.md
 - 组织起来！ organise.md
 - 如何使用 write.md
 - 版本控制 version_control.md
