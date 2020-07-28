@@ -11,3 +11,8 @@
     - [/docs]（已失效），请查看[Recipes](../index.md)
     - ![/packages/foam-vscode](https://github.com/foambubble/foam/tree/master/packages/foam-vscode)「Foam的vscode插件」
     - ![/packages/foam-core](https://github.com/foambubble/foam/tree/master/packages/foam-core)「在所有平台上增强Foam的核心功能」
+  - 但这里面没有：
+    - ![foambubble/foam-template](https://github.com/foambubble/)「Foam入门模板」
+    - 而且其它的推荐扩展都位于它们各自的库中
+  
+## 为vscode扩展作贡献
