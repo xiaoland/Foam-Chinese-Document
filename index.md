@@ -10,7 +10,7 @@
 - 让我们入门Foam吧！ [getting_started.md](foam/gettting_started.md)
 - Foam的功能 [features.md](foam/features.md)
 - 期待你展开冒险 [call to adventure](foam/call_to_adventure.md)
-- 感谢 thanks.md
+- 鸣谢 [thanks.md](foam/thanks.md)
 
 ### Recipes「/recipes」
 - 想作出贡献？ [contribute.md](recipes/contribute.md)
