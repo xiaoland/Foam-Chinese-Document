@@ -8,4 +8,4 @@
   - 查看[Roadmap](roadmap.md)「路线图」
   - 阅读[Principles](principles.md「原理」来了解Foam的理念与发展方向
   - 阅读[Contribution Guide](../recipes/contribution_guide.md)「贡献指南」来了解如何为Foam作出贡献
-  - 通过[Github iuuses](https://github.com/foambubble/foam/issues)「Github意见」来向我们提供有关新功能的反馈和想法
+  - 通过![Github iuuses](https://github.com/foambubble/foam/issues)「Github意见」来向我们提供有关新功能的反馈和想法
