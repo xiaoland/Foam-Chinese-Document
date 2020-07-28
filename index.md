@@ -7,7 +7,7 @@
 ### Normal [/foam]
 - 如何使用Foam [how_to_use_foam.md](foam/how_to_use_foam.md)
 - Foam里都有些什么 [waht's_in_foam.md](foam/what's_in_foam.md)
-- 入门Foam吧！ getting_started.md
+- 让我们入门Foam吧！ [getting_started.md](foam/gettting_started.md)
 - Foam的功能 features.md
 - 进行冒险 call to adventure
 - 感谢 thanks.md
