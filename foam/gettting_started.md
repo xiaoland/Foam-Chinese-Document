@@ -1,8 +1,8 @@
 # 让我们入门Foam吧！
 - 以下的指南架设您有Giuhub账户，并且已经安装vscode
-- vscode下载链接：![Visual Studio Code](https://visual-studio-code.en.softonic.com/)
+- vscode下载链接：[Visual Studio Code](https://visual-studio-code.en.softonic.com/)
 - 设置vscode的显示语言：进入vscode后，输入Crtl+Shift+P(或点击View>Command Palette)进入命令面板，然后输入「configure language」，选择「Configure Display Language」，然后就可以安装中文显示插件啦！
-  - 来源：![Zhihu](https://zhuanlan.zhihu.com/p/112431369)
+  - 来源：[Zhihu](https://zhuanlan.zhihu.com/p/112431369)
   
 ## 安装Foam的步骤
 - 1、使用foam-template生成一个新的git存储库
