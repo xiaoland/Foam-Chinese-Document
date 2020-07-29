@@ -13,7 +13,7 @@
 - Foam里都有些什么 [waht's_in_foam.md](foam/what's_in_foam.md)
 - 让我们入门Foam吧！ [getting_started.md](foam/gettting_started.md)
 - Foam的功能 [features.md](foam/features.md)
-- 期待你展开冒险 [call to adventure](foam/call_to_adventure.md)
+- 期待你展开冒险 [call_nto_adventure。md](foam/call_to_adventure.md)
 - 鸣谢 [thanks.md](foam/thanks.md)
 
 ### Recipes「/recipes」

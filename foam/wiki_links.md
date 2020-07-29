@@ -23,5 +23,5 @@
 
 ## 查看更多
 - [Foam File Format](foam_file_format.md)「Foam的文件格式标准」
-- [Link Formatting and Autocompletion](link_formatting_and_autocompletion.md)「链接的格式和自动完成」
+- [Link Formatting and Autocompletion](link_formatting_and_autocompletion.md)「链接的格式和自动完成」!!!请务必阅读本文档!!!
 - 查看[Link Reference Definition Improvements](https://foambubble.github.io/foam/link-reference-definition-improvements)来为当下的问题和解决方案进行讨论（懒得翻译了，大家喜欢就翻译一下吧(๑•ᴗ•๑)）
