@@ -9,6 +9,6 @@
   - 3、用Foam的「快捷方式」与「自动完成」功能来把你的想法和[wiki-links]连接在一起，并在它们之间浏览知识图谱。
     - *我觉得应该是：用Foam的wiki-links把你的想法连接起来，然后你就可以以知识图谱的形式来浏览它们了
   - 4、使用[Graph visualisation](graph_visualisation.md)「图表可视化」来概括您的Foam工作区，并使用[Backlinking](backlinking.md)「反向链接」发现想法之间的关系
-    - $\color{red}(注意：图表可视化就是实现侧边炫酷东东的那个东西)$
+    - $\color{red}注意：图表可视化就是实现侧边炫酷东东的那个东西$
 - Foam就像一个浴缸：从中获得的泡沫取决于你放入的泡沫
 - [入门Foam](gettting_started.md)
