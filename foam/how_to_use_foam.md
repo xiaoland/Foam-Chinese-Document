@@ -1,6 +1,6 @@
 # 如何使用Foam
 - Foam是通过在想法和信息之间建立联系以帮助您更好地构思的工具
-- [sample_img](https://foambubble.github.io/foam/assets/images/foam-features-dark-mode-demo.png)
+- ![sample_img](https://foambubble.github.io/foam/assets/images/foam-features-dark-mode-demo.png)
 
 ## 简介
 - 无论你是想组建[第二大脑](https://www.buildingasecondbrain.com/)或是[Zettelkasten](https://zettelkasten.de/posts/overview/)，还是写一本书，只要通过以下的方法，Foam都能够帮助您进行构思
