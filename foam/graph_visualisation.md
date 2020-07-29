@@ -4,3 +4,4 @@
 - 但还要注意，使用「图表可视化」还依赖于[Markdown Links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links)
   - 不过这个默认是已经安装了的，你只要在扩展页面看一下使用方法就好了
 - ![Sample.gif](https://foambubble.github.io/foam/assets/images/foam-navigation-demo.gif)
+- 找到你想法之间的关系：[Backlinking](backlinking.md)
