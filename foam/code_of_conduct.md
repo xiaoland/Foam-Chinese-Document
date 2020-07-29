@@ -1,2 +1,2 @@
-# Code_of_conduct
+# 行为准则
 
