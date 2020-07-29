@@ -22,7 +22,7 @@
 - 试试智能笔记？ [todo.md](recipes/todo.md)
 - 展开探索！ [discover.md](recipes/discover.md)
 - 组织起来！ [organise.md](recipes/organise.md)
-- 如何使用 write.md
+- 如何撰写 write.md
 - 版本控制 version_control.md
 - 发布你的工作！ publish.md
 - 关于合作 collaborate.md
