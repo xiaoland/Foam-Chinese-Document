@@ -1,4 +1,4 @@
-# Index-目录（Foam中文汉化文档）
+# Index-目录
 - 本文档由Lanzhijiang撰写
 - 本文档包含本插件的使用指导、提示和策略，并以此帮助您充分利用foam
 - 原文链接：[Foam's github pages](https://foambubble.github.io/foam)
