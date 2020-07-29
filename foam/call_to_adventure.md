@@ -7,5 +7,5 @@
 - 如果你觉得这很有趣，那么我将很乐意去帮助您
   - 1、查看[Roadmap](roadmap.md)「路线图」
   - 2、阅读[Principles](principles.md)「Foam发展理念」来了解Foam的理念与发展方向
-  - 3、阅读[Contribution Guide](../recipes/contribution_guide.md)「贡献指南」来了解如何为Foam作出贡献
+  - 3、阅读[Contribution Guide](../recipes/contribute.md)「贡献指南」来了解如何为Foam作出贡献
   - 4、通过[Github iuuses](https://github.com/foambubble/foam/issues)「Github意见」来向我们提供有关新功能的反馈和想法
