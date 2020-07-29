@@ -7,6 +7,6 @@
 - 1、在lower-dash-case.md中命名你的文件
   - 详细请看[How to name your files](how_to_name_your_files.md)「如何命名你的文件」
 - 2、使用与文件名完全匹配的维基链接，请不要带上文件扩展名：[[lower-dash-case]]
-  - 详细请看[How to format your links](how_to_format_your_links.md)「如何格式化你的链接」以及[How to autocomplete your links correctly](how_to_autocomplete_your_links_correctly.md)「如何正确地使用自动填充功能完成你的链接」
+  - 详细请看[How to format your links](how_to_format_your_links.md)「如何标准化你的链接」以及[How to autocomplete your links correctly](how_to_autocomplete_your_links_correctly.md)「如何使Foam正确地自动完成你的链接」
 - 3、请确保每个文件中都有"# Heading"元素「标题元素」
   - 这将会作为你文件的标题

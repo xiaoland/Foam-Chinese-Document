@@ -36,5 +36,6 @@
 - 图表可视化 [graph_visualisation.md](foam/graph_visualisation.md)
 - 反向链接 [backlinking.md](foam/backlinking.md)
 - 维基链接 [wiki_links.md](foam/wiki_links.md)
-- 如何命名你的文件[how_to_name_your_files.md](foam/how_to_name_your_files.md)
-- Foam的链接格式和自动完成功能[link_formatting_and_autocompletion.md](foam/link_formatting_and_autocompletion.md)
+- 如何命名你的文件 [how_to_name_your_files.md](foam/how_to_name_your_files.md)
+- 如何标准化你的链接 [how_to_format_your_links.md](foam/how_to_format_your_links.md)
+- Foam的链接格式和自动完成功能 [link_formatting_and_autocompletion.md](foam/link_formatting_and_autocompletion.md)
