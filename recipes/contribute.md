@@ -17,7 +17,8 @@
   
 ## 为vscode扩展作贡献
 - 如果你有兴趣为vscode上的foam扩展作出贡献（又叫做foam-vscode），那么本指南将帮助你在本地对其作出设置
-  - 1、将本库克隆到本地：git clone https://github.com/fomabubble/foam.git（也可以用Github Desktop进行克隆，这样管理起来更方便）
+  - 1、将本库克隆到本地：git clone https://github.com/fomabubble/foam.git
+    - 也可以用Github Desktop进行克隆，这样管理起来更方便
   - 2、在根目录下运行这条命令安装依赖：yarn workspace foam-cre build
   - 3、这个项目使用[Yarn workspace](https://classic.yarnpkg.com/en/docs/workspaces/)「Yarn工作区」
     - foam-vscode依赖foam-core，这意味着我们需要在进行任何开发之前对其进行编译，因此，请从根目录运行命令：yarn workspace foam-core build
