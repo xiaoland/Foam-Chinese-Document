@@ -3,6 +3,7 @@
 - 本文档包含本插件的使用指导、提示和策略，并以此帮助您充分利用foam
 - 原文链接：[Foam's github pages](https://foambubble.github.io/foam)
 - Foam是基于MIT许可的，本文档是基于[Apache2.0](LICENSE)许可的
+- ！提示：如果你想快速入门，而不是阅读这种长长的文档，请看这一篇由其它网友撰写的快速入门：[Foam快速入门](https://github.com/Jackiexiao/10-minutes-to-foam)
 
 ## 目录列表
 - 若你再次跳转到本页，则说明你应该查看Recipes的目录
