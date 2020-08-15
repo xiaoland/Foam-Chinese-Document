@@ -20,7 +20,7 @@
 ### Recipes「/recipes」
 - 若你再次跳转到本页，则说明你应该查看本目录
 - 想作出贡献？ [contribute.md](recipes/contribute.md)
-- 试试智能笔记？ [todo.md](recipes/todo.md)
+- 试试"智能笔记"？ [todo.md](recipes/todo.md)
 - 展开探索！ [discover.md](recipes/discover.md)
 - 组织起来！ [organise.md](recipes/organise.md)
 - 如何撰写 write.md
@@ -40,3 +40,6 @@
 - 如何命名你的文件 [how_to_name_your_files.md](foam/how_to_name_your_files.md)
 - 如何标准化你的链接 [how_to_format_your_links.md](foam/how_to_format_your_links.md)
 - Foam的链接格式和自动完成功能 [link_formatting_and_autocompletion.md](foam/link_formatting_and_autocompletion.md)
+- 反向链接物质化 [materialized_backlinks.md](foam/materialized_backlinks.md)
+- Foam文件格式标准 [foam_file_format.md](foam/foam_file_format.md)
+- 未链接的引用 [unlinked_references.md](foam/unlinked_references.md)
