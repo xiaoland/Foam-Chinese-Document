@@ -17,7 +17,7 @@
 - 期待你展开冒险 [call_nto_adventure.md](foam/call_to_adventure.md)
 - 鸣谢 [thanks.md](foam/thanks.md)
 
-### Recipes「/recipes」
+### Recipes [/recipes]
 - 若你再次跳转到本页，则说明你应该查看本目录
 - 想作出贡献？ [contribute.md](recipes/contribute.md)
 - 试试"智能笔记"？ [todo.md](recipes/todo.md)
