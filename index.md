@@ -25,7 +25,7 @@
 - 组织起来！ [organise.md](recipes/organise.md)
 - 如何撰写 write.md
 - 版本控制 version_control.md
-- 发布你的工作！ publish.md
+- 发布你的作品！ publish.md
 - 关于合作 collaborate.md
 - 工作流程 workflow.md
 - 关于创意 creative_idea.md
