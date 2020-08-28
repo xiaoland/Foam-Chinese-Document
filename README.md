@@ -3,7 +3,7 @@
 - 译者：Lan_zhijiang
 - Foam的Github项目地址：[foambublle/foam](https://github.com/foambubble/foam)
 - 请从index.md开始阅读本文档[index.md](index.md)
-- ！提升：如果您想快速开始使用Foam，您可以考虑阅读本由网友撰写的[Foam中文快速入门指南](https://github.com/Jackiexiao/10-minutes-to-foam)
+- ！提示：如果您想快速开始使用Foam，您可以考虑阅读本由网友撰写的[Foam中文快速入门指南](https://github.com/Jackiexiao/10-minutes-to-foam)
 
 ## 译者的话
 - 作为一个英语连半桶水都没有的家伙，希望大家能谅解一些没有翻译好的地方
