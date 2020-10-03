@@ -1,4 +1,4 @@
-# Foam's Chinese Document(An extensions of vscode)
+# Foam's Chinese Document(An extension of vscode)
 - Foam的中文使用文档（Foam是vscode上的一款插件）
 - 译者：Lan_zhijiang
 - Foam的Github项目地址：[foambublle/foam](https://github.com/foambubble/foam)
